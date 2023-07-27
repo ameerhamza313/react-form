@@ -28,13 +28,9 @@ Tech Stack:
 - JSX: JSX is used to create expressive and declarative UI components for form elements and validation messages.
 - CSS: Styling is implemented using CSS to ensure a clean and visually appealing presentation of form elements and error messages.
 
-Installation and Usage:
-[Provide detailed instructions on how to install the library via npm or yarn and demonstrate how to use it in a React application.]
 
 Contributing:
 Contributions from the open-source community are highly appreciated. If you encounter any issues or have ideas for enhancements, please feel free to open an issue or submit a pull request.
 
-License:
-[Choose an appropriate open-source license for the project, e.g., MIT License, Apache License, etc.]
 
 We hope this React Form Validation library proves to be a valuable addition to your React projects, making form handling and data validation a breeze. Happy coding!
